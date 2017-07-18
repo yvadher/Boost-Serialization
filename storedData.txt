@@ -1,0 +1,1 @@
+22 serialization::archive 10 0 0 0 0 0  0 0 0 9 Barcelona 50 65 65 0 0 2 0 4 enes 0 80 80 6 yagnik 100 50 50

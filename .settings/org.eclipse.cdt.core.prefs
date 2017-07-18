@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.773713804/BOOST_TEST_LOG_LEVEL/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.773713804/BOOST_TEST_LOG_LEVEL/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.773713804/BOOST_TEST_LOG_LEVEL/value=all
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.773713804/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.debug.773713804/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.766974174/--LOG_LEVEL/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.766974174/--LOG_LEVEL/operation=append
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.766974174/--LOG_LEVEL/value=all
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.766974174/append=true
+environment/project/cdt.managedbuild.config.gnu.mingw.exe.release.766974174/appendContributed=true
