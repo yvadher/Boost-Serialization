@@ -78,7 +78,7 @@ private:
 	template<class Archive>
 	void serialize(Archive & ar, const unsigned int version)
 	{  // serialization of variables (attacking,defending,stamina,playerName).
-		cout<<"Serializing player Object"<<endl;
+		cout<<"Serializing player Object :"<<endl;
 		boost::serialization::base_object<skill>(*this);  // Serialize the base class
 		ar & playerName;
 		ar & attacking & defending & stamina;
